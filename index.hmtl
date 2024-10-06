@@ -3,49 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafoli</title>
-    <style>
-        body {
-            background-color: #181818; /* Fondo oscuro */
-            color: white; /* Texto blanco */
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        a {
-            color: #1e90ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        img {
-            display: block;
-            margin: 0 auto;
-            width: 150px;
-            height: auto;
-        }
-    </style>
+    <title>Portfoli de Daniel Corral</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Si tienes una hoja de estilos -->
 </head>
 <body>
-    <h1>Portafoli</h1>
-    <p>Aquest és el meu portafoli sobre els meus estudis del Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM).</p>
-    <p>Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic</p>
-    <img src="images/logo-copernic.png" alt="Logo Nicolau Copèrnic"> <!-- Cambia la ruta de la imagen -->
+    <header>
+        <h1>Portfoli de Daniel Corral</h1>
+    </header>
+    <main>
+        <section>
+            <p>Aques és el meu portfoli sobre els meus estudis del Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM).</p>
+            <p>Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic.</p>
+        </section>
+        
+        <section>
+            <h2>Mòduls realitzats</h2>
+            <ul>
+                <li><strong>M01:</strong> Sistemes informàtics</li>
+                <li><strong>M02:</strong> Bases de dades</li>
+                <li><strong>M03:</strong> Programació</li>
+                <li><strong>M04:</strong> Llenguatge de marques</li>
+                <li><strong>M12:</strong> FOL</li>
+                <li><strong>M13:</strong> EIE</li>
+            </ul>
+        </section>
 
-    <h2>Els mòduls que he fet són:</h2>
-    <ul>
-        <li><a href="#">M01: Sistemes informàtics</a></li>
-        <li><a href="#">M02: Bases de dades</a></li>
-        <li><a href="#">M03: Programació</a></li>
-        <li><a href="#">M04: Llenguatge de Marques</a></li>
-        <li><a href="#">M12: FOL</a></li>
-        <li><a href="#">M13: EIE</a></li>
-    </ul>
+        <section>
+            <h2>Tecnologies Utilitzades</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Java</li>
+                <li>MySQL Workbench</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Visualització</h2>
+            <p>El meu portfoli es pot veure <a href="https://DanielCorralMari.github.io/Portfoli/">aquí</a>.</p>
+        </section>
+
+        <section>
+            <h2>Contacte</h2>
+            <p>Correu electrònic: <a href="mailto:tucorreu@exemple.com">tucorreu@exemple.com</a></p>
+        </section>
+    </main>
 </body>
 </html>
