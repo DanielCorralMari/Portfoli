@@ -39,6 +39,19 @@
         </section>
 
         <section>
+            <h2>Proyectos</h2>
+            <ul>
+                <li><strong>PawaHausu:</strong> 
+                    <ul>
+                        <li><a href="https://docs.google.com/document/d/1ztdHsQC8qlLH8FRXjPH-mJI0jDaqoliugpP1SV28r0E/edit?tab=t.0#heading=h.b63kynq3jwaj" target="_blank">Documentación del Proyecto</a></li>
+                        <li><a href="https://gitlab.com/ngallardo2/projecte1_equip1" target="_blank">Repositorio en GitLab</a></li>
+                        <li><a href="https://drive.google.com/drive/u/1/folders/1oRLd9CNj8zyull0HhfCyN8V6PXdYbHsl" target="_blank">Material en Google Drive</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section>
             <h2>Visualització</h2>
             <p>El meu portfoli es pot veure <a href="https://DanielCorralMari.github.io/Portfoli/">aquí</a>.</p>
         </section>
