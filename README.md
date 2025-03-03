@@ -17,6 +17,8 @@ Els mòduls que he fet són:
 - CSS
 - Java
 - MySQL Workbench
+- Kotlin
+- Spring Boot
 
 ## Proyectos
 ### PawaHausu
