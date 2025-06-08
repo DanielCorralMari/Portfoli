@@ -33,7 +33,7 @@ Els mòduls que he fet són:
 ### EntreBicis
 - [Memoria del Projecte](https://gitlab.com/dcorral3/projecte4_entrebicis.git)
 ### DaniSurvivor
-- [Executable](https://drive.google.com/drive/u/1/folders/1hNEJ2h7du4b9Lqy-Vx1XSkYcveF5uQ2l)
+- [Executable](https://drive.google.com/drive/u/1/folders/1hNEJ2h7du4b9Lqy-Vx1XSkYcveF5uQ2l) 
 ## Visualització
 El meu portfoli es pot veure [aquí](https://DanielCorralMari.github.io/Portfoli/).
 
