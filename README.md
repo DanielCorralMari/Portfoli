@@ -33,15 +33,15 @@ Aplicació que simula un ERP simplificat per gestionar el lloguer de cotxes. Per
 - [Memòria del Projecte](https://docs.google.com/document/d/1HkFJTOvKdjFLU4rybu8vIVNgTxGmRnWU6xnRAIE6nNM/edit?tab=t.0)
 
 ### MyCards
-Aplicació per gestionar col·leccions de cartes, amb opcions d’afegir, editar i eliminar cartes.
+Aplicació per gestionar col·leccions de cartes, amb opcions d’afegir, editar i eliminar cartes, desenvolupada amb **Kotlin**, **API REST** i **Java Spring Boot**.
 - [Memòria del Projecte]()
 
 ### EntreBicis
-Plataforma web per llogar i comprar bicicletes, amb funcionalitats d’usuari i administrador.
+Es una aplicació que permet als ciclistes enregistrar rutes mitjançant GPS i obtenir recompenses en funció dels quilòmetres recorreguts. L’administrador pot gestionar usuaris, validar rutes i administrar recompenses a través d’un panell web, desenvolupada amb **Kotlin**, **API REST** i **Java Spring Boot**.
 - [Memòria del Projecte](https://gitlab.com/dcorral3/projecte4_entrebicis.git)
 
 ### DaniSurvivor
-Petit videojoc de supervivència creat com a projecte personal, on l'objectiu és sobreviure el màxim temps possible.
+Petit videojoc de supervivència on l'objectiu és sobreviure el màxim temps possible.
 - [Executable](https://drive.google.com/drive/u/1/folders/1hNEJ2h7du4b9Lqy-Vx1XSkYcveF5uQ2l) 
 
 ## Visualització
