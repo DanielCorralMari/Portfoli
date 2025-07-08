@@ -1,6 +1,6 @@
 # Portfoli de Daniel Corral
 
-Aques és el meu portfoli sobre els meus estudis del Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM).  
+Aquest és el meu portfoli sobre els meus estudis del Cicle Superior de Desenvolupament d'Aplicacions Multiplataforma (DAM).  
 Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic.
 
 ## Mòduls realitzats
@@ -21,21 +21,32 @@ Els mòduls que he fet són:
 - Spring Boot
 - C#
 
-## Proyectos
+## Projectes
 ### PawaHausu
-- [Memoria del Projecte](https://docs.google.com/document/d/1ztdHsQC8qlLH8FRXjPH-mJI0jDaqoliugpP1SV28r0E/edit?tab=t.0)
+Aplicació de gestió del proveïedors, productes i les seves families d'un almacen, desenvolupada amb **JavaFX**.
+- [Memòria del Projecte](https://docs.google.com/document/d/1ztdHsQC8qlLH8FRXjPH-mJI0jDaqoliugpP1SV28r0E/edit?tab=t.0)
 - [Executable](https://drive.google.com/file/d/1QnWWkb7Cks9QjNKWX_59yXOIgv8frW1y/view?usp=drive_link)
-- [Scrip de la base de dades](https://drive.google.com/file/d/1EyP5B79PRcv8vBWnp4suiYzlhMSD3GQ7/view?usp=drive_link)
+- [Script de la base de dades](https://drive.google.com/file/d/1EyP5B79PRcv8vBWnp4suiYzlhMSD3GQ7/view?usp=drive_link)
+
 ### CotxesPaco
-- [Memoria del Projecte](https://docs.google.com/document/d/1HkFJTOvKdjFLU4rybu8vIVNgTxGmRnWU6xnRAIE6nNM/edit?tab=t.0)
+Aplicació que simula un ERP simplificat per gestionar el lloguer de cotxes. Permet gestionar reserves, afegir vehicles, gestionar agents, clients, incidències i localitzacions, desenvolupada amb **Springboot**.
+- [Memòria del Projecte](https://docs.google.com/document/d/1HkFJTOvKdjFLU4rybu8vIVNgTxGmRnWU6xnRAIE6nNM/edit?tab=t.0)
+
 ### MyCards
-- [Memoria del Projecte]()
+Aplicació per gestionar col·leccions de cartes, amb opcions d’afegir, editar i eliminar cartes.
+- [Memòria del Projecte]()
+
 ### EntreBicis
-- [Memoria del Projecte](https://gitlab.com/dcorral3/projecte4_entrebicis.git)
+Plataforma web per llogar i comprar bicicletes, amb funcionalitats d’usuari i administrador.
+- [Memòria del Projecte](https://gitlab.com/dcorral3/projecte4_entrebicis.git)
+
 ### DaniSurvivor
+Petit videojoc de supervivència creat com a projecte personal, on l'objectiu és sobreviure el màxim temps possible.
 - [Executable](https://drive.google.com/drive/u/1/folders/1hNEJ2h7du4b9Lqy-Vx1XSkYcveF5uQ2l) 
+
 ## Visualització
 El meu portfoli es pot veure [aquí](https://DanielCorralMari.github.io/Portfoli/).
 
 ## Contacte
+
 - Correu electrònic: [dcorralmari@gmail.com](dcorralmari@gmail.com)
